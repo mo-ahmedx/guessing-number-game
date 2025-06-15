@@ -33,15 +33,8 @@ This simplifies to `16`, the correct answer. 😉
 1. Save the code to a file, for example: `guess.cpp`
 2. Compile it with a C++ compiler:
 
-```bash
-```g++ guess.cpp -o guess
-
-3. Run it:
-
-
-
-```./guess
-
+   ```bash
+   g++ guess.cpp -o guess
 
 ---
 
