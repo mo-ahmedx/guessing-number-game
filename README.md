@@ -34,18 +34,18 @@ This simplifies to `16`, the correct answer. 😉
 2. Compile it with a C++ compiler:
 
 ```bash
-g++ guess.cpp -o guess
+g++ guess.cpp -o guess```
 
 3. Run it:
 
 
 
-./guess
+```./guess```
 
 
 ---
 
-📦 Requirements
+## 📦 Requirements
 
 C++ compiler (e.g., g++)
 
