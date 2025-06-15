@@ -34,13 +34,13 @@ This simplifies to `16`, the correct answer. 😉
 2. Compile it with a C++ compiler:
 
 ```bash
-g++ guess.cpp -o guess```
+```g++ guess.cpp -o guess
 
 3. Run it:
 
 
 
-```./guess```
+```./guess
 
 
 ---
@@ -50,7 +50,3 @@ g++ guess.cpp -o guess```
 C++ compiler (e.g., g++)
 
 Console/terminal access
-## 🧠 Hint System
-
-Before Round 3, the game asks:
-
